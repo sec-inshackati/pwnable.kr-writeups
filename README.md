@@ -1,10 +1,10 @@
 # pwnable.kr
 
 ## [Toddler's Bottle]
-  * [fd] -> [WriteUp](http://github.com)
-  * [collision] -> [WriteUp](http://github.com)
-  * [bof] -> [WriteUp](http://github.com)
-  * [flag] -> [WriteUp](http://github.com)
+  * [fd] -> [WriteUp](https://github.com/sec-inshackati/pwnable.kr-writeups/tree/main/toddler/fd)
+  * [collision] -> [WriteUp](https://github.com/sec-inshackati/pwnable.kr-writeups/tree/main/toddler/collision)
+  * [bof] -> [WriteUp](https://github.com/sec-inshackati/pwnable.kr-writeups/tree/main/toddler/bof)
+  * [flag] -> [WriteUp](https://github.com/sec-inshackati/pwnable.kr-writeups/tree/main/toddler/flag)
   * passcode
   * random
   * input
